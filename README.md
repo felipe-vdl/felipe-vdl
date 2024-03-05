@@ -12,7 +12,7 @@
   <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML5" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="MySQL" alt="MySQL" height="40" width="40" src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667">
+  <img align="center" title="MySQL" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title="Laravel" alt="Laravel" height="40" width="40" src="https://laravel.com/img/logomark.min.svg">
   <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
