@@ -1,12 +1,10 @@
 <h1 align="center">
   Olá, eu sou o 
-  <a href="https://www.linkedin.com/in/felipe-carvalho-vidal/" target="_blank">Felipe Vidal😃️</a>
+  <a href="https://fvidal.dev" target="_blank">Felipe Vidal😃️</a>
 </h1>
 <div align="center">
-  <a href="https://github.com/felipe-vdl">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&show_icons=true&theme=dark&hide=stars,prs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=dark&hide_border=false&&layout=compact"/>
 </div>
 <div align="center" valign="top"><br>
   <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,5 +29,5 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-carvalho-vidal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vidalfelipe2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@fvidal.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
