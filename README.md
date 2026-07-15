@@ -1,34 +1,48 @@
-<h1 align="center">
-  Olá, eu sou o 
-  <a href="https://fvidal.dev" target="_blank">Felipe Vidal</a>
-</h1>
-<!-- <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&show_icons=true&theme=dark&hide=stars,prs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=dark&hide_border=false&&layout=compact"/>
-</div> -->
-<div align="center" valign="top"><br>
-  <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="HTML5" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="MySQL" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title="Laravel" alt="Laravel" height="40" width="40" src="https://laravel.com/img/logomark.min.svg">
-  <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
-<div align="center" valign="top">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-  <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="NestJS" title="NestJS"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/>
-</div>
-<br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/felipe-carvalho-vidal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contato@fvidal.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+# Olá, eu sou o Felipe Vidal
+**Engenheiro de Software & Empreendedor**
+
+[![Website](https://img.shields.io/badge/Portfolio-fvidal.dev-0052FF?style=flat-square&logo=chrome&logoColor=white)](https://fvidal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Vidal-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-carvalho-vidal/)
+[![Gmail](https://img.shields.io/badge/Gmail-contato%40fvidal.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@fvidal.dev)
+
+---
+
+</div>
+
+### 💻 Sobre Mim
+
+Sou um desenvolvedor de software focado em engenharia de backend, arquitetura de sistemas e infraestruturas modernas. Ajudo empresas e instituições públicas a otimizarem seus processos com tecnologia robusta, segura e estável. Gosto de resolver problemas complexos e transformar regras de modelos de negócio em softwares especializados.
+
+- **Foco de Atuação:** Plataformas Web, APIs e Microsserviços.
+- **Interesses:** Lógica computacional, Domain-Driven Design e arquitetura de sistemas distribuídos.
+
+---
+
+### Tecnologias & Ferramentas
+
+Para desenvolver sistemas modernos e robustos, estas são algumas das tecnologias que utilizo diariamente:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,php,laravel,react,vue,tailwind,mysql,postgres,mongodb,docker,kubernetes,aws,grafana,linux,git&theme=dark&perline=9" />
+</div>
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&show_icons=true&theme=tokyonight&hide=stars,prs&border_radius=8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=tokyonight&layout=compact&border_radius=8" />
+</div>
+
+<div align="center">
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-vdl&theme=tokyonight&border_radius=8" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Desenvolvido com ☕ e código por Felipe Vidal.</sub>
 </div>
