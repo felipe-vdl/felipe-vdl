@@ -33,8 +33,8 @@ Para desenvolver sistemas modernos e robustos, estas são algumas das tecnologia
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&show_icons=true&theme=tokyonight&hide=stars,prs&border_radius=8" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=tokyonight&layout=compact&border_radius=8" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=felipe-vdl&show_icons=true&theme=tokyonight&hide=stars,prs&border_radius=8" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipe-vdl&theme=tokyonight&layout=compact&border_radius=8" />
 </div>
 
 <div align="center">
