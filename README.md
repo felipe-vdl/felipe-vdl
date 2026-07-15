@@ -2,10 +2,10 @@
   Olá, eu sou o 
   <a href="https://fvidal.dev" target="_blank">Felipe Vidal</a>
 </h1>
-<div align="center">
+<!-- <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-vdl&show_icons=true&theme=dark&hide=stars,prs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-vdl&theme=dark&hide_border=false&&layout=compact"/>
-</div>
+</div> -->
 <div align="center" valign="top"><br>
   <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML5" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
