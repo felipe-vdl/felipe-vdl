@@ -16,7 +16,7 @@
 Sou um desenvolvedor de software focado em engenharia de backend, arquitetura de sistemas e infraestruturas modernas. Ajudo empresas e instituições públicas a otimizarem seus processos com tecnologia robusta, segura e estável. Gosto de resolver problemas complexos e transformar regras de modelos de negócio em softwares especializados.
 
 - **Foco de Atuação:** Plataformas Web, APIs e Microsserviços.
-- **Interesses:** Lógica computacional, Domain-Driven Design e arquitetura de sistemas distribuídos.
+- **Interesses:** Lógica Computacional & Algoritmos, Domain-Driven Design e Arquitetura de Sistemas Distribuídos.
 
 ---
 
